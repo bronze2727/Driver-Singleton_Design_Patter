@@ -1,4 +1,4 @@
-# Created a Driver Class used with Singleton Pattern Design 
+# Created a Driver Class used with Singleton Design Pattern 
 
 it supply that an public reachable object any other classes also uncreatable any object more.
 
